@@ -1,8 +1,8 @@
-\# Agent Instructions
+# Agent Instructions
 
 
 
-\## Project purpose
+## Project purpose
 
 
 
@@ -14,7 +14,7 @@ The main goal is not only to build the application, but also to learn how AI cod
 
 
 
-\## Working rules
+## Working rules
 
 
 
@@ -40,7 +40,7 @@ Before changing code:
 
 
 
-\## Communication
+## Communication
 
 
 
